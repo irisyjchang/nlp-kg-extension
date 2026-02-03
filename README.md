@@ -1,7 +1,7 @@
 ## Dataset
 
 This repository includes a dataset of knowledge graph triples extracted from news articles. 
-The dataset was created as part of PortNLP's research in knowledge graphs.
+The dataset (available in 'data/news_knowledge_graph_triples.csv') was created as part of PortNLP's research in knowledge graphs.
 
 Each row consists of:
 - **Sentence** — the original sentence from the source article
@@ -9,3 +9,5 @@ Each row consists of:
 - **Source** — the originating news publication
 
 Triples are constrained to entities of type **Person**, **Organization**, and **Location**.  
+
+
